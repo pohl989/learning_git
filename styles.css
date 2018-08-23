@@ -12,6 +12,21 @@
 .hide {
     display: none;
 }
+
+#game-area {
+    display: flex;
+
+}
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: #b3b3b3;
+    margin: 50ps;
+    cursor: pointer;
+}
+
 /* 
 .bigger {
     height: 1000px;
